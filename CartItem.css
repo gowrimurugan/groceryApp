@@ -1,0 +1,91 @@
+.CartItem{
+    padding: 10px 20px;
+    position: relative;
+}
+.CartDelBtn{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    right: 0;
+    width: 25px;
+    height: 25px;
+    background-color: rgba(128, 128, 128, 0.11);
+    font-size: 20px;
+    cursor: pointer;
+}
+.CartDelBtn:hover{
+    background-color: rgba(128, 128, 128, 0.363);
+    color: red;
+}
+.CartItemWrapper{
+    display: flex;
+}
+.CartImageArea{
+    width: 150px;
+    height: 150px;
+}
+.CartImageArea img{
+    width: 100%;
+    height: auto;
+}
+.CartDetailsArea{
+    margin-left: 20px;
+}
+.CartPrice{
+    margin: 20px 0px;
+    font-size: 22px;
+}
+.CartSave{
+    font-weight: bold;
+    font-size: 14px;
+    color: #5FD068;
+}
+.CartMRP{
+    font-size: 15px;
+    margin: 0px 4px;
+}
+.qtyWrapper{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    right: 20px;
+    bottom: 20px;
+}
+.qtyWrapper button{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 0px 20px;
+    border: none;
+    background-color: #5FD068;
+    font-size: 30px;
+    cursor: pointer;
+}
+.qtyWrapper button:hover{
+    background-color: #4B8673;
+}
+.qtyWrapper button:active{
+    transform: scale(0.9);
+}
+.qtyWrapper .inactive{
+    background-color: #5fd06979;
+}
+
+@media screen and (max-width : 768px) {
+    .CartImageArea{
+        width: 75px;
+        height: 75px;
+    }
+    .CartProductName{
+        font-size: 20px;
+    }
+    .CartPrice{
+        font-size: 20px;
+    }
+    .qtyWrapper{
+        justify-content: center;
+        position: initial;
+    }
+}

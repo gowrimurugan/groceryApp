@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    transition: 0.2s;
+}
+body::-webkit-scrollbar{
+    width: 10px;
+}
+body::-webkit-scrollbar-thumb{
+    height: 10px;
+    background-color: #5FD068;
+    border-radius: 3px;
+}
+.container{
+    width: 85%;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.App{
+   background-color: #F6FBF4;
+}
+.sectionHeading{
+    text-align: center;
+    padding: 30px 0px;
+    text-transform: uppercase;
+}

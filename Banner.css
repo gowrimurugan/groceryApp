@@ -1,0 +1,20 @@
+.bannerImageArea{
+    width: 100%;
+    position: relative;
+}
+.bannerImageArea img{
+    width: 100%;
+    height: auto;
+}
+.bannerLogo{
+    left: 100px;
+    font-size: 4em;
+    top: 100px;
+    position: absolute;
+}
+@media screen and (max-width : 768px) {
+    .bannerLogo{
+        top: 50px;
+        font-size: 2em;
+    }
+}

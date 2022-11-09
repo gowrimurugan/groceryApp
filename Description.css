@@ -1,0 +1,60 @@
+.DescriptionWrapper{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    justify-content: flex-start;
+    box-shadow: 0px 0px 10px 2px #5fd06983;
+    position: relative;
+    border-radius: 20px;
+}
+.Description{
+    padding: 30px;
+}
+.DescriptionImageArea{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    position: relative;
+}
+.DescriptionImageArea img{
+    border: 1px solid rgba(199,199,199,0.562);
+    border-radius: 7px;
+    height: 100%;
+    width: auto;
+}
+.btn{
+    position: absolute;
+    right: 10px;
+    top: 150px;
+    width: 55px;
+    height: 55px;
+    background-color: #F6FBF4;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px 1px #5FD068;
+}
+.btn:hover{
+    box-shadow: 0px 0px 5px 1px #5FD068;
+}
+.btn:active{
+    transform: scale(0.9);
+}
+.btn i{
+    transform: scale(2);
+}
+#backBtn{
+    position: initial;
+    margin-bottom: 20px;
+}
+.btnPrev{
+    left: 10px;
+}
+@media screen and (max-width : 768px) {
+    .DescriptionWrapper{
+        flex-direction: column;
+    }
+}

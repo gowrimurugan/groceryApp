@@ -1,0 +1,24 @@
+.PaymentBox{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+.paymentSectionWrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.paymentSectionWrapper p{
+    margin: 10px 0px;
+}
+.placeOrderBtn{
+    border: none;
+    background-color: #5FD068;
+    color: white;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.dim{
+    color: gray;
+}

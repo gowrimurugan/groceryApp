@@ -1,0 +1,8 @@
+.categoryHolder{
+    background-color: white;
+}
+.categoryHolderWrapper{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

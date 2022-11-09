@@ -1,0 +1,104 @@
+{
+    "snacks": [
+        {
+            "id": "1",
+            "name": "Apple",
+            "price": "440.00",
+            "offer": 5,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "image": "https://www.jiomart.com/images/product/600x600/590004487/apple-indian-6-pcs-pack-approx-750-g-950-g-product-images-o590004487-p590004487-0-202203170227.jpg",
+            "category": "snacks",
+            "veg": true
+        },
+        {
+            "id": "2",
+            "name": "Mosambi 3 kg (Pack)",
+            "price": "119.00",
+            "offer": 17,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "image": "https://www.jiomart.com/images/product/600x600/590006806/mosambi-3-kg-pack-product-images-o590006806-p590032918-0-202203150754.jpg",
+            "category": "snacks",
+            "veg": true
+        },
+        {
+            "id": "3",
+            "name": " Orange Imported 1 kg",
+            "price": "159.00",
+            "offer": 22,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "image": "https://www.jiomart.com/images/product/600x600/590000025/orange-imported-1-kg-product-images-o590000025-p590000025-0-202203171007.jpg",
+            "category": "snacks",
+            "veg": true
+        },
+        {
+            "id": "4",
+            "name": "Pears Green Imported 3 pcs (Pack",
+            "price": "139.00",
+            "offer": 13,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "image": "https://www.jiomart.com/images/product/600x600/590001270/pears-green-imported-3-pcs-pack-product-images-o590001270-p590040932-0-202203170454.jpg",
+            "category": "snacks",
+            "veg": true
+        },
+        {
+            "id": "5",
+            "name": "Tender Coconut 3 pcs",
+            "price": "149.00",
+            "offer": 7,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "image": "https://www.jiomart.com/images/product/600x600/590009785/tender-coconut-3-pcs-product-images-o590009785-p591041745-0-202203171040.jpg",
+            "category": "snacks",
+            "veg": true
+        },
+        {
+            "id": "6",
+            "name": "Banana Yellaki 12 pcs (Approx 750 g)",
+            "price": "109.00",
+            "offer": 4,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "image": "https://www.jiomart.com/images/product/600x600/590001655/banana-yellaki-12-pcs-approx-750-g-1000-g-product-images-o590001655-p590041069-0-202203152123.jpg",
+            "category": "snacks",
+            "veg": true
+        },
+        {
+            "id": "7",
+            "name": "Dates Imported (Approx 400 g - 500 g)",
+            "price": "179.00",
+            "offer": 27,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "image": "https://www.jiomart.com/images/product/600x600/590002744/dates-imported-approx-400-g-500-g-product-images-o590002744-p590002744-0-202203170240.jpg",
+            "category": "snacks",
+            "veg": true
+        },
+        {
+            "id": "8",
+            "name": "Pomegranate Economy 6 pcs (Pack)",
+            "price": "249.00",
+            "offer": 57,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "image": "https://www.jiomart.com/images/product/600x600/590001268/pomegranate-economy-6-pcs-pack-product-images-o590001268-p590485022-0-202203150746.jpg",
+            "category": "snacks",
+            "veg": true
+        },
+        {
+            "id": "9",
+            "name": "Plum Imported 4 pcs",
+            "price": "69.00",
+            "offer": 11,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "image": "https://www.jiomart.com/images/product/600x600/590001570/plum-imported-4-pcs-product-images-o590001570-p593727906-0-202209121634.jpg",
+            "category": "snacks",
+            "veg": true
+        },
+        {
+            "id": "10",
+            "name": " Sapota 6 pcs (Pack)",
+            "price": "99.00",
+            "offer": 19,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "image": "https://www.jiomart.com/images/product/600x600/590003068/sapota-6-pcs-pack-approx-450-g-550-g-product-images-o590003068-p590309513-0-202208101342.jpg",
+            "category": "snacks",
+            "veg": true
+        }
+    ]
+}

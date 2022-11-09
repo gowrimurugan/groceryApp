@@ -1,0 +1,44 @@
+.searchResultBox{
+    top: 80px;
+    position: fixed;
+    width: 350px;
+    background-color: white;
+    box-shadow: 0px 0px 5px 2px gray;
+    border-radius: 5px;
+    z-index: 2;
+    max-height: 400px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.searchResultBox::-webkit-scrollbar{
+    width: 5px;
+}
+.searchResultBox::-webkit-scrollbar-thumb{
+    height: 10px;
+    background-color: #5FD068;
+    border-radius: 3px;
+}
+.serachResult{
+    padding: 5px;
+    font-size: 16px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    border-bottom: 1px solid gray;
+    cursor: pointer;
+}
+.serachResult:hover{
+    background-color: #5FD068;
+}
+.searchResultName p{
+    display: inline-block;
+    white-space: nowrap;
+    width: 230px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+.serachResultCatagory span{
+    font-weight: bold;
+}
